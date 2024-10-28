@@ -1,0 +1,33 @@
+.form-el {
+    max-width: 700px;
+    width: 100%;
+}
+.form-div {
+    display: flex;
+    flex-direction: column;
+}
+.input-el {
+    height: 60px;
+    border-radius: 15px;
+    color: red;
+    background-color: lightblue;
+    border: none;
+    outline: none;
+}
+.btn-sub {
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: lightgreen;
+    color: #fff;
+    border: none;
+}
+.text-ar {
+    width: 100%;
+}
+.title {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 620;
+  font-style: normal;
+}
